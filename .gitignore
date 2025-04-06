@@ -1,1 +1,4 @@
-.myenv/
+myenv/
+.env/
+.venv/
+integrated-hawk-449114-c3-0dda03144415.json/
